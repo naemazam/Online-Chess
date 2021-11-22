@@ -13,6 +13,6 @@ This Chess Game Have 2 Mode
 - Single Where You can Play with AI
 - Multiplayer Play with Your Friend
 
-![](./ss.png)
+![](./images/ss.PNG)
 
 [Play]()
